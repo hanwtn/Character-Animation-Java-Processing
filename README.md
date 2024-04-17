@@ -1,6 +1,6 @@
 ## Example Video
 
-Here's a video demonstrating the usage of the project:
+Here's a video demonstrating the usage of the project (click to watch):
 
 [![Watch the video](https://i.imgur.com/fGNjo8Z.png)](https://i.imgur.com/fGNjo8Z.mp4)
 
