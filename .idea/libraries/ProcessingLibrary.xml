@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ProcessingLibrary">
+    <CLASSES>
+      <root url="jar://S:/processing-4.3/core/library/core.jar!/" />
+      <root url="jar://S:/processing-4.3/core/library/controlP5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/reflections.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

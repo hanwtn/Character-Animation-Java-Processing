@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scrubbers>
+    <scrubber>
+        <name>Child_0</name>
+        <property>radius</property>
+        <frames>
+            <frame time="0" value="15.0"/>
+            <frame time="0" value="59.0"/>
+            <frame time="1265" value="74.0"/>
+            <frame time="2519" value="16.0"/>
+            <frame time="3064" value="74.0"/>
+            <frame time="4285" value="86.0"/>
+            <frame time="5824" value="10.0"/>
+            <frame time="7019" value="86.0"/>
+            <frame time="8850" value="10.0"/>
+            <frame time="10467" value="86.0"/>
+            <frame time="12168" value="10.0"/>
+            <frame time="13681" value="86.0"/>
+            <frame time="14759" value="10.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Root</name>
+        <property>radius</property>
+        <frames>
+            <frame time="0" value="50.0"/>
+            <frame time="0" value="89.0"/>
+            <frame time="1772" value="14.0"/>
+            <frame time="3512" value="80.0"/>
+            <frame time="4731" value="14.0"/>
+            <frame time="5584" value="77.0"/>
+            <frame time="7181" value="9.0"/>
+            <frame time="8779" value="77.0"/>
+            <frame time="10337" value="9.0"/>
+            <frame time="11636" value="77.0"/>
+            <frame time="13071" value="9.0"/>
+            <frame time="14038" value="77.0"/>
+            <frame time="14681" value="9.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Child_1</name>
+        <property>color</property>
+        <frames>
+            <frame time="0" value="0.0"/>
+            <frame time="577" value="173.0"/>
+            <frame time="1506" value="39.0"/>
+            <frame time="2967" value="195.0"/>
+            <frame time="3753" value="94.0"/>
+            <frame time="5487" value="218.0"/>
+            <frame time="6558" value="29.0"/>
+            <frame time="8064" value="218.0"/>
+            <frame time="8974" value="29.0"/>
+            <frame time="10629" value="218.0"/>
+            <frame time="11480" value="29.0"/>
+            <frame time="13175" value="218.0"/>
+            <frame time="14383" value="29.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Root</name>
+        <property>rotationSpeed</property>
+        <frames>
+            <frame time="0" value="0.0"/>
+            <frame time="467" value="8.0"/>
+            <frame time="2337" value="1.0"/>
+            <frame time="3850" value="0.0"/>
+            <frame time="6597" value="5.0"/>
+            <frame time="8461" value="0.0"/>
+            <frame time="10149" value="10.0"/>
+            <frame time="11902" value="0.0"/>
+            <frame time="13636" value="3.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Child_1</name>
+        <property>radius</property>
+        <frames>
+            <frame time="0" value="15.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Child_1</name>
+        <property>rotationSpeed</property>
+        <frames>
+            <frame time="0" value="0.0"/>
+            <frame time="201" value="8.0"/>
+            <frame time="629" value="8.0"/>
+            <frame time="1012" value="0.0"/>
+            <frame time="1415" value="8.0"/>
+            <frame time="3233" value="0.0"/>
+            <frame time="7844" value="8.0"/>
+            <frame time="8889" value="0.0"/>
+            <frame time="9902" value="8.0"/>
+            <frame time="11162" value="0.0"/>
+            <frame time="13116" value="8.0"/>
+            <frame time="14006" value="0.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Child_3</name>
+        <property>radius</property>
+        <frames>
+            <frame time="0" value="15.0"/>
+            <frame time="870" value="72.0"/>
+            <frame time="1850" value="15.0"/>
+            <frame time="4025" value="72.0"/>
+            <frame time="5909" value="15.0"/>
+            <frame time="8207" value="72.0"/>
+            <frame time="9824" value="15.0"/>
+            <frame time="11272" value="72.0"/>
+            <frame time="13512" value="15.0"/>
+            <frame time="14337" value="72.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Child_3</name>
+        <property>radius</property>
+        <frames>
+            <frame time="0" value="15.0"/>
+            <frame time="863" value="18.0"/>
+            <frame time="1863" value="18.0"/>
+            <frame time="3993" value="18.0"/>
+            <frame time="5935" value="18.0"/>
+            <frame time="8214" value="18.0"/>
+            <frame time="9857" value="18.0"/>
+            <frame time="11266" value="18.0"/>
+            <frame time="13545" value="18.0"/>
+            <frame time="14337" value="18.0"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Child_4</name>
+        <property>radius</property>
+        <frames>
+            <frame time="0" value="38.0"/>
+            <frame time="837" value="5.0"/>
+            <frame time="1883" value="38.0"/>
+            <frame time="3974" value="5.0"/>
+            <frame time="5922" value="38.0"/>
+            <frame time="8214" value="5.0"/>
+            <frame time="9928" value="38.0"/>
+            <frame time="11324" value="5.0"/>
+            <frame time="13558" value="38.0"/>
+            <frame time="14370" value="5.0"/>
+        </frames>
+    </scrubber>
+</scrubbers>

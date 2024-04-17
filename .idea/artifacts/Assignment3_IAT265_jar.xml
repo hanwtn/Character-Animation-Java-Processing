@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assignment3_IAT265:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment3_IAT265_jar</output-path>
+    <root id="archive" name="Assignment3_IAT265.jar">
+      <element id="module-output" name="Assignment3_IAT265" />
+      <element id="extracted-dir" path="S:/processing-4.3/core/library/core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="S:/processing-4.3/core/library/controlP5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/reflections.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

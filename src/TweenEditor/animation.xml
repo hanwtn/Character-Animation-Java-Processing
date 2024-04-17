@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scrubbers>
+    <scrubber>
+        <name>Neck</name>
+        <property>rotation</property>
+        <frames>
+            <frame time="0" value="-0.7853982"/>
+        </frames>
+    </scrubber>
+    <scrubber>
+        <name>Torso</name>
+        <property>red</property>
+        <frames>
+            <frame time="0" value="128.0"/>
+        </frames>
+    </scrubber>
+</scrubbers>
