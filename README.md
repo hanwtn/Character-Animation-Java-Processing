@@ -1,3 +1,5 @@
+Animated the character and record it!
+
 ## Example Video
 
 Here's a video demonstrating the usage of the project (click to watch):
